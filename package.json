@@ -1,0 +1,9 @@
+{
+  "name": "ezerrors",
+  "version": "1.0.0",
+  "description": "Easily generate custom Error classes",
+  "main": "index.js",
+  "repository": "git@github.com:timvandam/ezerrors.git",
+  "author": "Tim van Dam <timvandamcs@gmail.com>",
+  "license": "MIT"
+}
